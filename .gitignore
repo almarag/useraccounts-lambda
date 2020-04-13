@@ -1,0 +1,13 @@
+/.aws-sam
+/.vs
+bin
+obj
+*.csproj.user
+/Ama.UserAccountsLambda.Serverless/obj
+/Ama.UserAccountsLambda.Serverless/bin
+/Ama.UserAccountsLambda.Serverless.Tests/obj
+/Ama.UserAccountsLambda.Serverless.Tests/bin
+/Ama.UserAccountsLambda.Persistence/obj
+/Ama.UserAccountsLambda.Persistence/bin
+/Ama.UserAccountsLambda.Domain/obj
+/Ama.UserAccountsLambda.Domain/bin
