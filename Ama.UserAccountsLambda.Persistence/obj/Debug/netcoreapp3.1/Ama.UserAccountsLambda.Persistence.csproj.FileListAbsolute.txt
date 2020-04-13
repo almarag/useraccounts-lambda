@@ -1,0 +1,12 @@
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\bin\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.deps.json
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\bin\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.dll
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\bin\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.pdb
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\bin\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.dll
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\bin\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.pdb
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.csprojAssemblyReference.cache
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.AssemblyInfoInputs.cache
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.AssemblyInfo.cs
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.csproj.CopyComplete
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.dll
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Persistence\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Persistence.pdb

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+    <AWSProjectType>Lambda</AWSProjectType>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Amazon.Lambda.Core" Version="1.1.0" />
+    <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="1.0.0" />
+    <PackageReference Include="Amazon.Lambda.APIGatewayEvents" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ama.UserAccountsLambda.Application\Ama.UserAccountsLambda.Application.csproj" />
+    <ProjectReference Include="..\Ama.UserAccountsLambda.Domain\Ama.UserAccountsLambda.Domain.csproj" />
+    <ProjectReference Include="..\Ama.UserAccountsLambda.Persistence\Ama.UserAccountsLambda.Persistence.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="appsettings.Develpment.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

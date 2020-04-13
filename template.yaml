@@ -1,0 +1,27 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: Sample SAM Template for UserAccountsLambda
+Globals:
+  Function:
+    Timeout: 10
+Resources:
+  UserAccountsLambdaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: UserAccountsLambda
+      CodeUri: Ama.UserAccountsLambda.Serverless
+      Handler: Ama.UserAccountsLambda.Serverless::Ama.UserAccountsLambda.Serverless.Function::FunctionHandler
+      Runtime: dotnetcore2.1
+Outputs:
+  UserAccountsLambdaFunction:
+    Description: UserAccountsLambda Lambda Function ARN
+    Value:
+      Fn::GetAtt:
+      - UserAccountsLambda
+      - Arn
+  UserAccountsLambdaFunctionIamRole:
+    Description: Implicit IAM Role created for UserAccountsLambda function
+    Value:
+      Fn::GetAtt:
+      - UserAccountsLambdaRole
+      - Arn
