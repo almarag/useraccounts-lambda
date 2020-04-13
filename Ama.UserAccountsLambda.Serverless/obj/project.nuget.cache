@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsuSD/A2vOEvqMtwXFe+CVlZVLb/FW61qcDK7lk+mpdxAYudTNrekCnRiUvfx+zS3xrXicVQdxl4sCn9Q8dDMw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\useraccounts-lambda\\Ama.UserAccountsLambda.Serverless\\Ama.UserAccountsLambda.Serverless.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almar\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.0.0\\amazon.lambda.apigatewayevents.2.0.0.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\1.0.0\\amazon.lambda.serialization.systemtextjson.1.0.0.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\almar\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

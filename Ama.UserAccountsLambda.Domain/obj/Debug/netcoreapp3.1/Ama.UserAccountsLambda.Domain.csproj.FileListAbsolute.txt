@@ -1,0 +1,9 @@
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\bin\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.deps.json
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\bin\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.dll
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\bin\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.pdb
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.csprojAssemblyReference.cache
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.AssemblyInfoInputs.cache
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.AssemblyInfo.cs
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.dll
+D:\Projects\useraccounts-lambda\Ama.UserAccountsLambda.Domain\obj\Debug\netcoreapp3.1\Ama.UserAccountsLambda.Domain.pdb
